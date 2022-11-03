@@ -1,0 +1,8 @@
+
+Addon:
+    
+    -   Name : Name
+        Type : Name of the addon
+    
+    -   Name : Description
+        Type : Description of the addon
